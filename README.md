@@ -1,2 +1,3 @@
 # React JS food App
- This is a food delivery app 
+ This is a  website for a pizza shop
+ 
